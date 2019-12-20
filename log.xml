@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-12-20T14:59:54.128278600Z</date>
+  <millis>1576853994128</millis>
+  <nanos>278600</nanos>
+  <sequence>0</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Game opened </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:00.959845500Z</date>
+  <millis>1576854000959</millis>
+  <nanos>845500</nanos>
+  <sequence>1</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.GameWorld</class>
+  <method>&lt;init&gt;</method>
+  <thread>19</thread>
+  <message> Game Started</message>
+</record>
+<record>
+  <date>2019-12-20T15:00:01.054941Z</date>
+  <millis>1576854001054</millis>
+  <nanos>941000</nanos>
+  <sequence>2</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.snapshot.Memento</class>
+  <method>&lt;init&gt;</method>
+  <thread>19</thread>
+  <message>Snap shot is taken  </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:01.389677800Z</date>
+  <millis>1576854001389</millis>
+  <nanos>677800</nanos>
+  <sequence>3</sequence>
+  <logger>MO_Salah</logger>
+  <level>SEVERE</level>
+  <class>eg.edu.alexu.csd.oop.game.ImageStore</class>
+  <method>LoadBalls</method>
+  <thread>19</thread>
+  <message> Balls is uploaded  </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:03.954647400Z</date>
+  <millis>1576854003954</millis>
+  <nanos>647400</nanos>
+  <sequence>4</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.GameWorld</class>
+  <method>addElement</method>
+  <thread>19</thread>
+  <message> Balls ia added to the cup </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:03.955342700Z</date>
+  <millis>1576854003955</millis>
+  <nanos>342700</nanos>
+  <sequence>5</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.ImageObject</class>
+  <method>clone</method>
+  <thread>19</thread>
+  <message> Balls is cloned with type 1</message>
+</record>
+<record>
+  <date>2019-12-20T15:00:04.015140800Z</date>
+  <millis>1576854004015</millis>
+  <nanos>140800</nanos>
+  <sequence>6</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.Score</class>
+  <method>increase</method>
+  <thread>19</thread>
+  <message> score increased </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:16.037604900Z</date>
+  <millis>1576854016037</millis>
+  <nanos>604900</nanos>
+  <sequence>7</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.GameWorld</class>
+  <method>addElement</method>
+  <thread>19</thread>
+  <message> Balls ia added to the cup </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:16.038392200Z</date>
+  <millis>1576854016038</millis>
+  <nanos>392200</nanos>
+  <sequence>8</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.ImageObject</class>
+  <method>clone</method>
+  <thread>19</thread>
+  <message> Balls is cloned with type 9</message>
+</record>
+<record>
+  <date>2019-12-20T15:00:16.040417900Z</date>
+  <millis>1576854016040</millis>
+  <nanos>417900</nanos>
+  <sequence>9</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.Score</class>
+  <method>increase</method>
+  <thread>19</thread>
+  <message> score increased </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:19.949339200Z</date>
+  <millis>1576854019949</millis>
+  <nanos>339200</nanos>
+  <sequence>10</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.GameWorld</class>
+  <method>addElement</method>
+  <thread>19</thread>
+  <message> Balls ia added to the cup </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:19.949339200Z</date>
+  <millis>1576854019949</millis>
+  <nanos>339200</nanos>
+  <sequence>11</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.ImageObject</class>
+  <method>clone</method>
+  <thread>19</thread>
+  <message> Balls is cloned with type 8</message>
+</record>
+<record>
+  <date>2019-12-20T15:00:19.951420900Z</date>
+  <millis>1576854019951</millis>
+  <nanos>420900</nanos>
+  <sequence>12</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.Score</class>
+  <method>increase</method>
+  <thread>19</thread>
+  <message> score increased </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:23.227909300Z</date>
+  <millis>1576854023227</millis>
+  <nanos>909300</nanos>
+  <sequence>13</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.GameWorld</class>
+  <method>addElement</method>
+  <thread>19</thread>
+  <message> Balls ia added to the cup </message>
+</record>
+<record>
+  <date>2019-12-20T15:00:23.227909300Z</date>
+  <millis>1576854023227</millis>
+  <nanos>909300</nanos>
+  <sequence>14</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.ImageObject</class>
+  <method>clone</method>
+  <thread>19</thread>
+  <message> Balls is cloned with type 8</message>
+</record>
+<record>
+  <date>2019-12-20T15:00:23.230765100Z</date>
+  <millis>1576854023230</millis>
+  <nanos>765100</nanos>
+  <sequence>15</sequence>
+  <logger>MO_Salah</logger>
+  <level>INFO</level>
+  <class>eg.edu.alexu.csd.oop.game.Score</class>
+  <method>increase</method>
+  <thread>19</thread>
+  <message> score increased </message>
+</record>
+</log>
